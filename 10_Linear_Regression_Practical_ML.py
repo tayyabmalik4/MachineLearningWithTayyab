@@ -52,7 +52,7 @@ print("Intercept: ", model.intercept_)
 # -----plotting the graph from matplotlib library
 # plt.scatter(diabetes_X_test,diabetes_Y_test)
 # plt.plot(diabetes_X_test,diabetes_y_predicted)
-plt.show()
+# plt.show()
 
 # ----these are the values to find out for some reasons
 # Mean Squared error is:  3035.0601152912695

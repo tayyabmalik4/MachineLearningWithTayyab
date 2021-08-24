@@ -6,7 +6,8 @@
 # ----Now we calculate the values as the x puts x values and y puts y values
 # ----then we calculated the SSE by differient formula
 # ----and then first calculate differient by m and 2nd calculate differient by b
-# ----then calculate m and b values as using which find out differient values
+# ----then calculate m and b values as using which find out differient values 
+# ----And the final values of m and b is: -----m=1/2, b=2
 
 
 # ----Now importing libraries

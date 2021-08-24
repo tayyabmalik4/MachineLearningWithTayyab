@@ -5,7 +5,8 @@
 # ----(2)-Multivariable regression
 
 # ----Simple Linear Regression Definition----Simple linear regression uses traditional slope-intercept form, where m and b are the variables our algorithm will try to “learn” to produce the most accurate predictions. x represents our input data and y represents our prediction.
-# ----Formula----y=mx+b----f(x1)=w1x1+w0
+# ----Formula
+# ----y=mx+b----f(x1)=w1x1+w0
 
 # ----Multivariable Regression Definition-----A mpre complex, multi-variable linear equation might look like this, where W represents the coeficients, or weight, our model will try to learn.
 # ----Fromula---f(x,y,z)=w1x+w2y+w3z

@@ -14,6 +14,7 @@
 # --(4)-Easy to understand
 
 # ----Mean Absolute Error/L1 Loss-----Formula-----MAE=Σ|Yi - Y'i|/n
+# ----Mean Square Error/L2 Loss-----Formula-----MSE=Σ(Yi - Y'i)2/n
 # ----In the internet we observe this formula-----MAE = (1/n) * Σ|yi – xi|
 
 # ----Other Loss functions?

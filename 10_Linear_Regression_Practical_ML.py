@@ -43,11 +43,11 @@ model.fit(diabetes_X_train,diabetes_Y_train)
 diabetes_y_predicted=model.predict(diabetes_X_test)
 
 # ----for checking the mean squared error in the model
-print("Mean Squared error is: " ,mean_squared_error(diabetes_Y_test,diabetes_y_predicted))
+# print("Mean Squared error is: " ,mean_squared_error(diabetes_Y_test,diabetes_y_predicted))
 
 # ----for checking the weight and intercepts of the dataset
-print("Weight: ", model.coef_)
-print("Intercept: ", model.intercept_)
+# print("Weight: ", model.coef_)
+# print("Intercept: ", model.intercept_)
 
 # -----plotting the graph from matplotlib library
 # plt.scatter(diabetes_X_test,diabetes_Y_test)

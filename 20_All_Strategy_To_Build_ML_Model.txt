@@ -1,0 +1,39 @@
+******How To Train Model and How to Use Machine Learning Model
+
+1. importing libraries
+2. importing dataset
+3. checking dataset
+4. checking information of dataset
+5. checking important features and Analysis the data and also counts the values categorical and Numarical values
+6. checking describe
+7. plotting graphs using matplotlib and seaborn
+8. Missing Attribute Handles ----3 strategies
+    (i)- Get rid of the missing data points
+    (ii)- Get rid of the Whole Attribute
+    (iii)- Set the values of some values(cont, mean, median, mode) using pandas as well as sklearn libraries
+9. splitting dataset into train-dataset(80%) and test-dataset(20%)
+10. if column is categorical we divided into same values using stratifiedShuffleSplit---data is 0 or 1
+11. Now we work on train data and creating a copy of train dataset
+12. Checking correlation wrt label data
+13. Plotting correlation in graphs using pandas as well as matplotlib
+14. Optional(Attribute combination using diff features)
+15. Splitting the train data into features and labels
+16. Sk-learn Decign-------------3-steps
+    i- Estimator           ii- Transforms               iii- predicters
+17. Features-Scaling------------2 types
+    i- MinMaxScaler        ii- StandardScaler
+18. Creating pipeline
+    i-pipeline             ii- fit-transform
+19. Appling Algorithms
+    i-fit                  ii- Transforms               iii- predictict
+20. Evaluating the Model
+    i-prediction           ii- mean_square_error(mse)   iii- root_mean_square_error(rmse)
+21. Using Better evaluation Technique ---Cross Validation
+    i- scores              ii-root_mean_square_error-score(rmse-score)
+22. Saving the Model
+    i- use joblib library  ii-for-saving-model=>dump    iii-loading model=>loading
+23. Testing the model using testing data
+24. Using the Model
+    i- model=load(model-name)
+    ii-features=?
+    iii- print(model.pridict(features))

@@ -36,4 +36,4 @@ print("Intercept: ",model.intercept_)
 # ----Now we plot the graph of the values we use this matplotlib library
 plt.scatter(x_test,y_test)
 plt.plot(x_test,y_test_predicted )
-plt.show()
+# plt.show()

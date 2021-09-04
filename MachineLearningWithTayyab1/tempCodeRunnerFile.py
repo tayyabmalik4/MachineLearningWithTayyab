@@ -1,1 +1,0 @@
-bangalore house price prediction OHE-data.csv
